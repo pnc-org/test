@@ -1,3 +1,4 @@
 <?php
 
-    echo 'Hello';
+echo "Pauza test";
+echo 'Hello';
